@@ -1,3 +1,31 @@
+================================================================================
+TAREA 3 - PROCESAMIENTO BATCH CON APACHE SPARK
+================================================================================
+Curso: Big Data - 202016911
+Universidad Nacional Abierta y a Distancia (UNAD)
+
+Descripción:
+    Script de procesamiento batch en PySpark que realiza análisis exploratorio
+    de datos (EDA) sobre el conjunto histórico SIVIGILA de vigilancia en salud
+    pública de Colombia.
+    
+    Operaciones realizadas:
+        1. Carga del archivo CSV con esquema definido.
+        2. Limpieza de registros nulos en el campo 'conteo'.
+        3. Cálculo del Top 10 de eventos con mayor número de casos acumulados.
+        4. Tendencia anual de casos para el evento 'DENGUE'.
+        5. Generación de gráficos PNG (barras y líneas).
+        6. Exportación de resultados agregados en formato CSV.
+    
+Autor: CRISTOFHER MATHIAS CALDERON VEGA - GRUPO:34
+Fecha: Abril 2026
+
+Instrucciones de ejecución:
+    1. Asegúrate de que Apache Spark esté instalado y configurado.
+    2. Coloca el archivo CSV de SIVIGILA en el mismo directorio.
+    3. Ejecutar: spark-submit batch_analysis_sivigila.py
+================================================================================
+"""
 import os
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, sum as _sum, desc
