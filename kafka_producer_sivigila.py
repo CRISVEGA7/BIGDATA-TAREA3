@@ -1,3 +1,27 @@
+================================================================================
+TAREA 3 - PROCESAMIENTO EN TIEMPO REAL - KAFKA PRODUCTOR
+================================================================================
+Curso: Big Data - 202016911
+Universidad Nacional Abierta y a Distancia (UNAD)
+
+Descripción:
+    Productor de Kafka que genera datos simulados de reportes de eventos de
+    salud pública (SIVIGILA) y los envía al tópico 'svigila_events'.
+    
+    Este script simula la llegada de datos en tiempo real desde diferentes
+    departamentos de Colombia, generando métricas como nombre del evento,
+    departamento, semana epidemiológica, año, conteo de casos y timestamp.
+    
+Autor: CRISTOFHER MATHIAS CALDERON VEGA - Grupo:34
+Fecha: Abril 2026
+
+Instrucciones de ejecución:
+    1. Asegúrate de que ZooKeeper y Kafka estén corriendo.
+    2. Verifica que el tópico 'svigila_events' esté creado.
+    3. Instala la librería kafka-python: pip3 install kafka-python
+    4. Ejecutar: python3 kafka_producer_sivigila.py
+================================================================================
+"""
 import json
 import random
 import time
