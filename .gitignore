@@ -1,3 +1,18 @@
+# Archivos de datos grandes (CSV del dataset)
+*.csv
+!*.py
+
+# Resultados generados por el script batch
+resultados_batch/
+*.png
+
+# Logs de Spark y Kafka
+*.log
+logs/
+
+# Archivos temporales de Spark
+metastore_db/
+spark-warehouse/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
