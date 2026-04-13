@@ -23,6 +23,23 @@ Este proyecto implementa un pipeline de análisis de datos de vigilancia en salu
 - Apache Kafka 3.8.0
 - Python 3.10
 - Librerías: `kafka-python`, `pyspark`, `matplotlib`, `pandas`
+- markdown
+## 📊 Visualizaciones del Análisis Batch
+
+A continuación se presentan los gráficos generados a partir del procesamiento de datos históricos de SIVIGILA:
+
+| # | Gráfico | Descripción |
+|---|---------|-------------|
+| 1 | `01_top10_eventos.png` | Top 10 eventos de salud pública con mayor incidencia acumulada (2007-2022). |
+| 2 | `02_tendencia_dengue.png` | Tendencia anual de casos de DENGUE en Colombia. |
+| 3 | `03_top10_departamentos.png` | Top 10 departamentos con mayor número de casos notificados. |
+| 4 | `04_distribucion_semanal_2022.png` | Distribución de casos por semana epidemiológica - Año 2022. |
+| 5 | `05_evolucion_top5_eventos.png` | Evolución anual de los 5 eventos con mayor incidencia histórica. |
+| 6 | `06_total_casos_por_anio.png` | Volumen total de casos notificados al SIVIGILA por año. |
+| 7 | `07_top10_municipios.png` | Top 10 municipios con mayor número de casos notificados. |
+| 8 | `08_mapa_calor_dengue.png` | Mapa de calor de casos de DENGUE por semana y año. |
+| 9 | `09_estacionalidad_promedio.png` | Estacionalidad promedio semanal con banda de desviación estándar. |
+| 10 | `10_comparativa_dengue_vs_evento2.png` | Comparativa anual de DENGUE vs el segundo evento más frecuente. |
 
 ## 📈 Resultados Obtenidos
 
