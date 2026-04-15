@@ -62,5 +62,10 @@ El video explicativo de la ejecución de los scripts se encuentra disponible en 
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/CRISVEGA7/BIGDATA-TAREA3.git
+git  https://github.com/CRISVEGA7/BIGDATA-TAREA3.git
 cd BIGDATA-TAREA3
+
+### 2. Procesamiento Batch (Spark)
+**Requisitos previos:**
+- Apache Spark 3.5.3 instalado.
+- Python 3.10 con librerías: `pyspark`, `matplotlib`, `seaborn`, `pandas`.
