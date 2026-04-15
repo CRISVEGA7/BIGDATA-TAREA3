@@ -6,6 +6,15 @@
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Entregado-brightgreen)
+>
+> ## 📑 Tabla de Contenidos
+- [📝 Descripción del Proyecto](#-descripción-del-proyecto)
+- [📂 Contenido del Repositorio](#-contenido-del-repositorio)
+- [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
+- [📊 Visualizaciones Generadas](#-visualizaciones-generadas)
+- [🚀 Instrucciones de ejecución](#-instrucciones-de-ejecución)
+- [🎥 Video Demostrativo](#-video-demostrativo)
+- [👨‍🎓 Autor](#-autor)
 
 Repositorio para la **Tarea 3** del curso **Big Data (202016911)** de la Universidad Nacional Abierta y a Distancia (UNAD).
 
