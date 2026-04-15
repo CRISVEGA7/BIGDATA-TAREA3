@@ -1,5 +1,11 @@
 # 📊 Tarea 3 - Procesamiento de Datos con Apache Spark
 > **Código fuente del procesamiento batch:** [`batch_analysis_sivigila_pro.py`](batch_analysis_sivigila_pro.py)
+>
+> ![Spark](https://img.shields.io/badge/Apache_Spark-3.5.3-E25A1C?logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-3.8.0-231F20?logo=apachekafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Entregado-brightgreen)
 
 Repositorio para la **Tarea 3** del curso **Big Data (202016911)** de la Universidad Nacional Abierta y a Distancia (UNAD).
 
