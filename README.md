@@ -57,3 +57,10 @@ El video explicativo de la ejecución de los scripts se encuentra disponible en 
 - **Nombre:** CRISTOFHER MATHIAS CALDERON VEGA
 - **Curso:** BIG DATA - (202016911A_2201)
 - **Fecha:** Abril 2026
+
+- ## 🚀 Instrucciones de ejecución
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/CRISVEGA7/BIGDATA-TAREA3.git
+cd BIGDATA-TAREA3
