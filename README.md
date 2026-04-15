@@ -62,7 +62,7 @@ El video explicativo de la ejecución de los scripts se encuentra disponible en 
 
 ### 1. Clonar el repositorio
 ```bash
-git  https://github.com/CRISVEGA7/BIGDATA-TAREA3.git
+git clone https://github.com/CRISVEGA7/BIGDATA-TAREA3.git
 cd BIGDATA-TAREA3
 
 ### 2. Procesamiento Batch (Spark)
