@@ -11,7 +11,7 @@
 - [📝 Descripción del Proyecto](#-descripción-del-proyecto)
 - [📂 Contenido del Repositorio](#-contenido-del-repositorio)
 - [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
-- [📊 Visualizaciones Generadas](#-visualizaciones-generadas)
+- [📊 FRAFICOS](#-GRFICAS-GENERADAS)
 - [🚀 Instrucciones de ejecución](#-instrucciones-de-ejecución)
 - [🎥 Video Demostrativo](#-video-demostrativo)
 - [👨‍🎓 Autor](#-autor)
@@ -40,7 +40,7 @@ Este proyecto implementa un pipeline de análisis de datos de vigilancia en salu
 - Python 3.10
 - Librerías: `kafka-python`, `pyspark`, `matplotlib`, `pandas`
 - markdown
-## 📊 Visualizaciones del Análisis Batch
+## 📊 Graficos del Análisis Batch
 
 A continuación se presentan los gráficos generados a partir del procesamiento de datos históricos de SIVIGILA:
 
